@@ -269,7 +269,7 @@ Superseded by the shared gauntlet (Ross's rulings 2026-09-23 and 2026-09-25, set
 
 ## Repo facts
 
-- Remote `git@github.com:rharmes/sano.git`; `main` is the PR base **and** the deploy source — deploy
+- Remote `git@github.com:Ancient-Monument/sano.git`; `main` is the PR base **and** the deploy source — deploy
   only from a merged `main`, never from a task branch. `.claude/settings.json` sets
   `worktree.bgIsolation: "none"` — background sessions edit this checkout directly; **do not use
   worktrees.**
